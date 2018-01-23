@@ -1,1 +1,2 @@
 Juego: Journey
+Desarrollador: That game company
