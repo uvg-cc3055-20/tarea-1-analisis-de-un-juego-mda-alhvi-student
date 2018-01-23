@@ -1,2 +1,4 @@
 Juego: Journey
 Desarrollador: That game company
+
+Genero: Exploracion
